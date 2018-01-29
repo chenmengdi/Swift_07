@@ -1,0 +1,21 @@
+PODS:
+  - BmobSDK (2.2.3):
+    - WechatOpenSDK (~> 1.7.7)
+  - MOBFoundation (3.0.6)
+  - SMSSDK (3.0.1):
+    - MOBFoundation
+  - WechatOpenSDK (1.7.9)
+
+DEPENDENCIES:
+  - BmobSDK (~> 2.2.3)
+  - SMSSDK (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  BmobSDK: dd61cf835d063303fb53b29465fcb3e9718b36f2
+  MOBFoundation: 6f6ec1c2513278551f1a808b5692e983d99e5069
+  SMSSDK: a811c8ea6e89393097037b7cf6493248a40e50f0
+  WechatOpenSDK: 1fe7e3b07db860d6a936c3ff4a5aba6b890958d9
+
+PODFILE CHECKSUM: a17e6741ec10576e9982576daa892ee13559fc89
+
+COCOAPODS: 1.4.0.beta.2

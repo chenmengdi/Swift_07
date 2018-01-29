@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>MOBAppKey</key>
+	<string>22c0def9f4bb0</string>
+	<key>MOBAppSecret</key>
+	<string>a9c5ab65376301b33da292ab60109642</string>
 </dict>
 </plist>
